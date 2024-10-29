@@ -42,15 +42,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Cutoff_Height: -0.04
+    - _Cutoff_Height: 0.08
     - _Glow_Thickness: 0.07
     - _Noise_Scale: 250
-    - _Noise_Strenght: 0.25
+    - _Noise_Strenght: 0.4
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _BaseColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
-    - _GlowColor: {r: 1, g: 0.21318123, b: 0, a: 1}
+    - _GlowColor: {r: 12.996038, g: 2.7705114, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &382433363048916595
 MonoBehaviour:
