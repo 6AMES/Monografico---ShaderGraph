@@ -46,7 +46,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Choppines: 0.01
+    - _Choppines: 0.04
     - _FlowSpeed: 0.01
     - _FlowStrenght: 0.0075
     - _FoamDistance: 1.5
